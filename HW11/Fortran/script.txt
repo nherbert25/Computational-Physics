@@ -1,0 +1,8 @@
+gfortran scatterout.f90
+a.exe, '\r\n' >> energy4.txt
+
+
+
+gfortran scatterout_designed_for_part_c.f90
+a.exe, '\r\n' >> energy.txt
+
